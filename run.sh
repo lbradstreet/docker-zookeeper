@@ -1,1 +1,1 @@
-docker run -P -t lucasbradstreet/zookeeper:3.4.6
+docker run -P -ti lbradstreet/zookeeper:3.4.6 bash
